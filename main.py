@@ -1,7 +1,7 @@
 ###################
 ## EXAMPLE: strings 
 ###################
-hi = "hello there"
+# hi = "hello there"
 # name = "ana"
 # greet = hi + name  
 # print(greet)
@@ -70,9 +70,9 @@ hi = "hello there"
 
 
 
-n = 0
-while n < 5:
-   print(n)
+# n = 0
+# while n < 5:
+#    print(n)
   #  n = n+1
 
 
